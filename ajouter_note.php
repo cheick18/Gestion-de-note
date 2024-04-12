@@ -11,6 +11,20 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     </head>
 <body>
+<style>
+  .icone-1{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 50%;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#1a1613;
+  }
+</style>
 <nav class="navbar navbar-expand-lg container-fluid navbar-light" style="position: relative; background-color: #E3DCD6;">
         <div class="container" >
           <a class="navbar-brand" href="index.html" style="color: #8C5627;"><svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-house" viewBox="0 0 16 16">
